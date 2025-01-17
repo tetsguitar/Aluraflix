@@ -74,7 +74,7 @@ const CategoriaTitle = styled.h2`
 
 const CategoriaContainer = styled.div`
   display: flex;
-  gap: 20px;
+  gap: 10px;
   overflow-x: auto; 
   flex-wrap: wrap;  
   z-index: 1;
