@@ -15,6 +15,7 @@ const Container = styled.div.withConfig({
   margin: 5px;
   position: relative;
   margin-left: 20px;
+  width: 412px;
   box-sizing: border-box;
   border: 3px solid;
   font-family: "Roboto", sans-serif;

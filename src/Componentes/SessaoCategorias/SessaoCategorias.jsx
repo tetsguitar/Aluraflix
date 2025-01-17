@@ -74,11 +74,14 @@ const CategoriaTitle = styled.h2`
 
 const CategoriaContainer = styled.div`
   display: flex;
-  gap: 10px;
+  gap: 5px;
+  width: 100%;
+  justify-content: space-around;  
   overflow-x: auto; 
   flex-wrap: wrap;  
   z-index: 1;
-  overflow: hidden;  
+  overflow: hidden;
+  margin-right: 30px;
 `;
 
 const Capa = styled.img`
