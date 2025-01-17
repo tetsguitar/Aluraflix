@@ -1,0 +1,67 @@
+{
+    "videos": [
+        {
+            "id": 1,
+            "titulo": "O que faz uma desenvolvedora front-end?",
+            "capa": "https://img.youtube.com/vi/ZY3-MFxVdEw/maxresdefault.jpg",
+            "link": "https://www.youtube.com/embed/ZY3-MFxVdEw?si=4S5Y0iFdUJy4_WHG",
+            "categoria": "front"
+        },
+        {
+            "id": 2,
+            "titulo": "Guia de carreira Front-end",
+            "capa": "https://img.youtube.com/vi/I6xTDxkjjqk/hqdefault.jpg",
+            "link": "https://www.youtube.com/embed/I6xTDxkjjqk?si=gFGZa6vbZX9uL27T",
+            "categoria": "front"
+        },
+        {
+            "id": 3,
+            "titulo": "Como deixar o Layout Responsivo no seu site",
+            "capa": "https://img.youtube.com/vi/COS5sIKstJg/hqdefault.jpg",
+            "link": "https://www.youtube.com/embed/COS5sIKstJg?si=ffGwUopdnJG2HDsQ",
+            "categoria": "front"
+        },
+        {
+            "id": 4,
+            "titulo": "O que faz uma desenvolvedora Back-end?",
+            "capa": "https://img.youtube.com/vi/fiPfvylj6rk/hqdefault.jpg",
+            "link": "https://www.youtube.com/embed/fiPfvylj6rk?si=omnqmYo-hJY0TrZ-",
+            "categoria": "back"
+        },
+        {
+            "id": 5,
+            "titulo": "Como se tornar um desenvolvedor BACKEND?",
+            "capa": "https://img.youtube.com/vi/jzZdMEP8EkY/hqdefault.jpg",
+            "link": "https://www.youtube.com/embed/jzZdMEP8EkY?si=AhNydFf5i_Iy7Ush",
+            "categoria": "back"
+        },
+        {
+            "id": 6,
+            "titulo": "A MELHOR linguagem de programação",
+            "capa": "https://img.youtube.com/vi/5XPojnx9bb8/hqdefault.jpg",
+            "link": "https://www.youtube.com/embed/5XPojnx9bb8?si=GyEZSPfNwfsUh-s-",
+            "categoria": "back"
+        },
+        {
+            "id": 7,
+            "titulo": "Desenvolvimento Android",
+            "capa": "https://img.youtube.com/vi/2z6f8VN_Pro/hqdefault.jpg",
+            "link": "https://www.youtube.com/embed/2z6f8VN_Pro?si=kjSy2oEocV2DC7nC",
+            "categoria": "mobile"
+        },
+        {
+            "id": 8,
+            "titulo": "O que é React Native?",
+            "capa": "https://img.youtube.com/vi/fWscDFHKgw8/hqdefault.jpg",
+            "link": "https://www.youtube.com/embed/fWscDFHKgw8?si=4Kryrfk7HQeXPIvm",
+            "categoria": "mobile"
+        },
+        {
+            "id": 9,
+            "titulo": "Como começar sua primeira app com o Flutter",
+            "capa": "https://img.youtube.com/vi/fmu1LQvZhms/hqdefault.jpg",
+            "link": "https://www.youtube.com/embed/fmu1LQvZhms?si=ENGmvbHYNgy_tG2m",
+            "categoria": "mobile"
+        }
+    ]
+}
