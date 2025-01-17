@@ -1,6 +1,6 @@
 # Challenge ONE | Front End - AluraFlix
 ---
-<h1Aluraflix</h1>
+<h1>Aluraflix</h1>
 
 <h2>📋 Sobre o Projeto</h2>
 <p>O projeto foi desenvolvido no 4º Challenge do curso Especialização FrontEnd da Oracle Next Education em parceria com a Alura. 
