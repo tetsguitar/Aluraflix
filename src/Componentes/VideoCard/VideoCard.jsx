@@ -15,7 +15,7 @@ const Container = styled.div.withConfig({
   margin: 5px;
   position: relative;
   margin-left: 20px;
-  width: 412px;
+  width: 470px;
   box-sizing: border-box;
   border: 3px solid;
   font-family: "Roboto", sans-serif;
@@ -32,7 +32,7 @@ const Container = styled.div.withConfig({
 `;
 
 const CapaWrapper = styled.div`
-  width: 412px;
+  width:  470px;
   height: 260px;
   display: flex;
   justify-content: center;
@@ -55,6 +55,7 @@ const Capa = styled.img`
 const Icones = styled.div`
   display: flex;
   justify-content: space-around;
+  flex-wrap: wrap;
   align-items: center;
   padding: 0 20px;
   background-color: #000;

@@ -73,15 +73,13 @@ const CategoriaTitle = styled.h2`
 `;
 
 const CategoriaContainer = styled.div`
-  display: flex;
-  gap: 5px;
+  display: flex;  
   width: 100%;
-  justify-content: space-around;  
-  overflow-x: auto; 
-  flex-wrap: wrap;  
+  justify-content: space-between;  
+  overflow-x: auto;   
   z-index: 1;
   overflow: hidden;
-  margin-right: 30px;
+  box-sizing: border-box;  
 `;
 
 const Capa = styled.img`
@@ -89,8 +87,7 @@ const Capa = styled.img`
   height: 260px;  
   object-fit: cover; // Ajusta a imagem para cobrir todo o container
   object-position: center; // Centraliza a imagem dentro do container
-  z-index: 1;
-  z-index: 1;
+  z-index: 1; 
   overflow: hidden;    
 `;
 
