@@ -76,8 +76,7 @@ const CategoriaContainer = styled.div`
   display: flex;
   gap: 20px;
   overflow-x: auto; 
-  flex-wrap: wrap;
-  justify-content: space-between;  
+  flex-wrap: wrap;  
   z-index: 1;
   overflow: hidden;  
 `;
