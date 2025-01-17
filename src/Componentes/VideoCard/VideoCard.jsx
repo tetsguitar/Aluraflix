@@ -54,8 +54,7 @@ const Capa = styled.img`
 
 const Icones = styled.div`
   display: flex;
-  justify-content: space-around;
-  flex-wrap: wrap;
+  justify-content: space-around;  
   align-items: center;
   padding: 0 20px;
   background-color: #000;
