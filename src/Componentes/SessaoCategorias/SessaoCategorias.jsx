@@ -75,15 +75,20 @@ const CategoriaTitle = styled.h2`
 const CategoriaContainer = styled.div`
   display: flex;  
   width: 100%;
-  justify-content: space-between;  
+  justify-content: flex-start;  
   overflow-x: auto;   
   z-index: 1;
+  flex-wrap: nowrap;
   overflow: hidden;
-  box-sizing: border-box;  
+  box-sizing: border-box;
+  
+  @media (max-width: 768px) {
+    flex-wrap: wrap;
+  }
 `;
 
 const Capa = styled.img`
-  width: 432px;
+  width: 420px;
   height: 260px;  
   object-fit: cover; // Ajusta a imagem para cobrir todo o container
   object-position: center; // Centraliza a imagem dentro do container

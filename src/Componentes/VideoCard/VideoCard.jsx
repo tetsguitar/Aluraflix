@@ -32,7 +32,7 @@ const Container = styled.div.withConfig({
 `;
 
 const CapaWrapper = styled.div`
-  width:  470px;
+  width:  420px;
   height: 260px;
   display: flex;
   justify-content: center;
